@@ -1,5 +1,6 @@
-# Multitenancy Core — Presentation
+# One App, Many Customers — Presentation
 
+Inside a Multitenant Spring Boot Application
 Slide deck covering the design and evolution of the multitenancy-core Spring Boot library. Built with [Spectacle](https://github.com/FormidableLabs/spectacle) (React) and [Vite](https://vitejs.dev/).
 
 ## Prerequisites
