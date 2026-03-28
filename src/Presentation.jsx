@@ -498,7 +498,7 @@ function EvolutionV2BugSlide() {
             </div>
             <div style={card(accent3)}>
               <div style={h3(accent3)}>Why It Was Silent</div>
-              <p style={st}>No exception. No warning. The wrong tenant's data was written successfully — just to the wrong place. Only discovered through data inconsistencies.</p>
+              <p style={st}>No exception or warnings. The wrong tenant's data was written successfully — just to the wrong place. Only discovered through data inconsistencies.</p>
             </div>
           </div>
         </Appear>
